@@ -1,0 +1,4 @@
+name: Skyblockidea
+version: '${project.version}'
+main: es.jojo1542.skyblockidea.Skyblockidea
+api-version: 1.18
